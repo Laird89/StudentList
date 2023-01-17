@@ -7,7 +7,6 @@ package sudent1;
 import java.util.Scanner;
 
 /**
- *
  * @author chris
  */
 public class reverseWord {
