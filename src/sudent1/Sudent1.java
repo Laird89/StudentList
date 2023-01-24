@@ -32,6 +32,6 @@ public class Sudent1 {
     public void setStudentName(String studentName) {
         this.studentName = studentName;
     }
-    
-       
+
+   
 }
