@@ -13,7 +13,8 @@ package sudent1;
 public class Sudent1 {
     private String studentId;
     private String studentName;
-
+    private String address;
+    
     public Sudent1(String studentId, String studentName) {
         this.studentId = studentId;
         this.studentName = studentName;
